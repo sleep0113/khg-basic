@@ -46,9 +46,7 @@ main > img{
 .text-2 > article > h2{
     font-size:40px;
 }
-.text-2 > figure > img{ 
-  
-}
+/* .text-2 > figure > img{} */
 .text-2 > article > p > a{
     line-height: 100px;
 }
